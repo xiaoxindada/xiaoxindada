@@ -3,5 +3,3 @@
 
 # Visitors
 ![](https://count.getloli.com/get/@xiaoxindada?theme=gelbooru)
-
-![card](https://github.com/xiaoxindada/netease-cloud-music-card/blob/main/card.svg)
