@@ -1,5 +1,6 @@
 # Hi there 👋 this is Xiaoxindada
 ![](https://github-readme-stats.vercel.app/api?username=xiaoxindada&show_icons=true&include_all_commits=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxindada&layout=compact&langs_count=10)
 
 # Visitors
 ![](https://count.getloli.com/get/@xiaoxindada?theme=gelbooru)
