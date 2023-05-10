@@ -14,3 +14,4 @@
 ![Xiaomi 6](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![OnePlus 7 Pro](https://img.shields.io/badge/OnePlus%207%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 5T](https://img.shields.io/badge/OnePlus%205T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+![OnePlus 11](https://img.shields.io/badge/OnePlus%2011-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
