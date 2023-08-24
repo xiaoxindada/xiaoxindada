@@ -15,3 +15,6 @@
 ![OnePlus 7 Pro](https://img.shields.io/badge/OnePlus%207%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 5T](https://img.shields.io/badge/OnePlus%205T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 ![OnePlus 11](https://img.shields.io/badge/OnePlus%2011-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
+
+
+![github contribution grid snake animation](https://github.com/xiaoxindada/xiaoxindada/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/xiaoxindada/xiaoxindada/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
