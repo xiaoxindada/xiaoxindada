@@ -17,4 +17,4 @@
 ![OnePlus 11](https://img.shields.io/badge/OnePlus%2011-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 
 
-![github contribution grid snake animation](https://github.com/xiaoxindada/xiaoxindada/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/xiaoxindada/xiaoxindada/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/xiaoxindada/xiaoxindada/raw/output/github-contribution-grid-snake.svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
