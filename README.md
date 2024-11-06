@@ -7,8 +7,7 @@
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![Deepin](https://img.shields.io/badge/Deepin%2020%2e06-2fb0da?style=flat-square&logo=deepin&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2024%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 # 📱 Devices
 ![Xiaomi 6](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
@@ -17,5 +16,3 @@
 ![OnePlus 11](https://img.shields.io/badge/OnePlus%2011-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)
 
 ![snake](https://raw.githubusercontent.com/xiaoxindada/xiaoxindada/output/github-contribution-grid-snake.svg)
-
-![typograssy](https://typograssy.deno.dev/api?text=Hellow%20World!)
